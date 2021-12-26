@@ -14,11 +14,11 @@ INSTALLATION:
 1. git clone https://github.com/technich214/SecureCall_GUI<br>
 2. ./SecureCall<br>
 TUTORIAL:<br>
-1. Wait for the token to be generated
-2. Send the generated tokens to your friends
-3. Ask your friend to use the token to initiate a connection
-4. Read ALL OF THE ALERTS
-5. Press CALL to start a call, you can also send messages and stuff
+1. Wait for the token to be generated<br>
+2. Send the generated tokens to your friends<br>
+3. Ask your friend to use the token to initiate a connection<br>
+4. Read ALL OF THE ALERTS<br><br>
+5. Press CALL to start a call, you can also send messages and stuff<br>
 <br>
 <br>
 Link for the working demo hosted on Heroku: https://securecall.herokuapp.com/
