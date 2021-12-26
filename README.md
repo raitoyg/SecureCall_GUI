@@ -16,7 +16,7 @@ The peerjs server is the default one so you SHOULD change it to one off your pri
 Because the demo is using the public rtc server to generate tokens stability is questionable. If you are having trouble generating a token, try using a VPN and spoof your location to USA or Europe.
 <br>
 <br>
-INSTALLATION:
+INSTALLATION:<br>
 1. git clone https://github.com/technich214/SecureCall_GUI<br>
 2. ./SecureCall<br>
 <br>
